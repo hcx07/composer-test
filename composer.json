@@ -1,0 +1,21 @@
+{
+    "name": "muniao/test",
+    "description": "is test",
+    "type": "project",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "hcx07",
+            "email": "756170593@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ford\\Escape\\": "src/Ford/Escape"
+        }
+    }
+}
